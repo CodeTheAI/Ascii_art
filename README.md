@@ -1,1 +1,1 @@
-This repository is dedicated to the school related developments (programs, libraries, os, etc..) for more question, kindly email me at codetheai@gmail.com
+Before proceeding to run, please ensure that both rich, and pyfiglet were installed using [pip install pyfiglet].
